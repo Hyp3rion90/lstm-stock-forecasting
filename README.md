@@ -132,7 +132,7 @@ lstm-stock-forecasting/
 **Davide Froiio** — Computer Engineering graduate, transitioning into AI / ML.
 
 - GitHub: [@Hyp3rion90](https://github.com/Hyp3rion90)
-- LinkedIn: `[link]`
+- LinkedIn: `https://www.linkedin.com/in/davide-froiio-0a207582/`
 
 ---
 
