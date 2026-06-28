@@ -82,7 +82,7 @@ The model tracks the test-set price closely (see the predicted-vs-actual plot in
 
 ### Google Colab (recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/github/Hyp3rion90/lstm-stock-forecasting/blob/main/tsla_lstm_forecasting.ipynb)
 
 Open the notebook in the `notebooks/` folder and run the cells top to bottom.
 
